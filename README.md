@@ -69,7 +69,7 @@ const monica = {
 * ⚡ Full-stack system for seamless developer onboarding
 
 <p align="center">
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/monica-mewani/NovaByte)">
     <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
   </a>
 </p>
