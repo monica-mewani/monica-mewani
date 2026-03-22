@@ -172,13 +172,10 @@ const monica = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/monica-mewani-43234a29b/">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:monicamewani8@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
